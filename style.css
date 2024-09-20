@@ -1,0 +1,71 @@
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(155, 41, 134);
+  background-color: aquamarine;
+  text-align: center;
+  margin: 0px;
+}
+
+.profile{
+  display: flex;
+}
+.name {
+  margin-left: 25px;
+  margin-top: 2;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.description{
+  background-color: rgb(249, 158, 255);
+}
+.bord{
+  margin-top: 15;
+  background-color:rgb(244, 187, 251)
+}
+.data{
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.Prof{
+  float: left;
+  text-align: center;
+  padding: 9;
+  margin: 20;
+  width: 100px;
+  background-color: rgb(255, 213, 252);
+}
+.details{
+float: left;
+border: 20px;
+width: 275;
+margin-bottom: 20px;
+}
+
+.career{
+  text-align: center;
+  margin-left: 375px;
+  margin-top: 20;
+  padding: 9px;
+  width: 100;
+  background-color: rgb(255, 213, 252);
+}
+.careerinfo{
+  margin-left: 50px;
+  border: 20px;
+  text-indent: 75;
+  font-size: larger;
+  width: 550px;
+}
+.titleinfo{
+  margin-left: 20px;
+  text-align: center;
+  margin-top: 20;
+  padding: 9px;
+  width: 100;
+  background-color: rgb(255, 213, 252);
+}
+.artistinfo{
+  border: 250px;
+  width: 250px;
+  background-color: rgb(239, 221, 255);
+}
